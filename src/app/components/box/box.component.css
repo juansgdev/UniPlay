@@ -1,0 +1,16 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background: var(--secondary-color);
+    border-radius: 14px;
+    margin: 24px auto;
+    width: 95%;
+    padding: 24px;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 24px;
+}
